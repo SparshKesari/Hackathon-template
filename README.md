@@ -1,11 +1,11 @@
 # Hackathon Name 🎉
 
-Hackathon Description
-    - Theme
-    - Elegibilty
-    - Duration
-    - Rules
-    - Submissio Guidelines
+## Hackathon Description
+ - Theme
+ - Elegibilty
+ - Duration
+ - Rules
+ - Submission Guidelines
 
 ### Note: 
 - We've setup issue form for you all to submit your hackathon projects
